@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in" name="Bachlor Informatik" start-page="Homepage.md">
+    <toc-element topic="Homepage.md"/>
+    <toc-element topic="Nützliche_Links.md"/>
+    <toc-element topic="Bachelor_Informatik_Semester_1.md">
+        <toc-element topic="Einführung_in_die_Programmierung.md">
+            <toc-element topic="Informationen_EidP.md"/>
+            <toc-element topic="Phasen_und_Prozessmodelle.md"/>
+        </toc-element>
+        <toc-element topic="Einführung_in_Diskrete_Mathematik_und_Lineare_Algebra.md">
+            <toc-element topic="Informationen_DMLA.md"/>
+            <toc-element topic="Mengenlehre.md"/>
+        </toc-element>
+        <toc-element topic="Technische_Informatik_und_Physikalische_Grundlagen.md"/>
+        <toc-element topic="Logische_Grundelagen_für_die_Informatik.md"/>
+        <toc-element topic="Betriebswirtschaftslehre.md"/>
+    </toc-element>
+</instance-profile>
