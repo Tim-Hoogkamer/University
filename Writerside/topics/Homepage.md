@@ -1,6 +1,8 @@
-# Allgemeines
+# Startseite
 
-Willkommen auf meiner Notizensammlung aus meinem Studium B.Sc. Informatik an der Hochschule Bonn-Rhein-Sieg.
+Willkommen auf meiner Notizensammlung aus meinem Studium 
+[Informatik (B.Sc.)](https://www.h-brs.de/de/inf/studienangebot/bachelor/informatik) an der Hochschule Bonn-Rhein-Sieg.
+
 
 ## Inhaltsverzeichnis
 
@@ -9,6 +11,7 @@ Willkommen auf meiner Notizensammlung aus meinem Studium B.Sc. Informatik an der
 3. [Was erwartet euch nicht auf dieser Seite?](#was-erwartet-euch-nicht-auf-dieser-seite)
 4. [Wie könnt ihr euch an dieser Seite beteiligen?](#wie-k-nnt-ihr-euch-an-dieser-seite-beteiligen)
 5. [Copyright Hinweise](#copyright-hinweise)
+
 
 ## Disclaimer
 
@@ -47,7 +50,7 @@ einzubinden, sodass ihr euch diese dort herunterladen könnt und diese anschlie�
 
 ## Wie könnt ihr euch an dieser Seite beteiligen?
 
-Diejenigen von euch, die wissen wir man Markdown schreibt, Zugriff auf JetBrains Writerside haben und wissen, wie man
+Diejenigen von euch, die wissen wie man Markdown schreibt, Zugriff auf JetBrains Writerside haben und wissen, wie man
 mit Git umgeht, können gerne schon zu dieser Seite beitragen.
 
 Ich würde euch allerdings darum bitten, euch möglichst an dem Style meiner bereits verfassten Notizen zu orientieren,

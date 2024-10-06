@@ -1,3 +1,0 @@
-# Logische Grundelagen für die Informatik
-
-Start typing here...

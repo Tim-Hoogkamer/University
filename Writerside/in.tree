@@ -14,8 +14,16 @@
             <toc-element topic="Informationen_DMLA.md"/>
             <toc-element topic="Mengenlehre.md"/>
         </toc-element>
-        <toc-element topic="Technische_Informatik_und_Physikalische_Grundlagen.md"/>
-        <toc-element topic="Logische_Grundelagen_für_die_Informatik.md"/>
-        <toc-element topic="Betriebswirtschaftslehre.md"/>
+        <toc-element topic="Technische_Informatik_und_Physikalische_Grundlagen.md">
+            <toc-element topic="Informationen_TIPG.md"/>
+            <toc-element topic="Computerzählweise.md"/>
+            <toc-element topic="Boolsche_Algebra.md"/>
+        </toc-element>
+        <toc-element topic="Logische_Grundlagen_für_die_Informatik.md">
+            <toc-element topic="Informationen_LGI.md"/>
+        </toc-element>
+        <toc-element topic="Betriebswirtschaftslehre.md">
+            <toc-element topic="Informationen_BWL.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
