@@ -9,6 +9,7 @@
         <toc-element topic="Einführung_in_die_Programmierung.md">
             <toc-element topic="Informationen_EidP.md"/>
             <toc-element topic="Phasen_und_Prozessmodelle.md"/>
+            <toc-element topic="Algorithmen.md"/>
         </toc-element>
         <toc-element topic="Einführung_in_Diskrete_Mathematik_und_Lineare_Algebra.md">
             <toc-element topic="Informationen_DMLA.md"/>

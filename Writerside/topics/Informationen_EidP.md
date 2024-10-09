@@ -5,91 +5,70 @@
 
 1. [LEA-Kurs](#lea-kurs)
 2. [Website](#website) 
-3. [Vorlesungen](#vorlesungen)
-4. [Übungen und Übungsaufgaben](#bungen-und-bungsaufgaben)
-5. [Praktomat](#praktomat)
-6. [Klausur](#klausur)
-7. [Nützliche Tipps](#n-tzliche-tipps)
+3. [Übungen und Übungsaufgaben](#bungen-und-bungsaufgaben)
+4. [Praktomat](#praktomat)
+5. [Klausur](#klausur)
 
 
 ## LEA-Kurs
 
-Unter folgendem Link könnt ihr zu dem LEA-Kurs dieser Vorlesung gelangen:
-
-[LEA - Einführung in die Programmierung](https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1599845&cmdClass=ilrepositorygui&cmdNode=y1&baseClass=ilrepositorygui)
-
-Der LEA-Kurs beinhaltet allerdings nur ein Diskussionsforum sowie weiterführende Links zu der Website und dem
-Praktomaten.
+Der [LEA-Kurs](https://lea.hochschule-bonn-rhein-sieg.de/ilias.php?ref_id=1599845&cmdClass=ilrepositorygui&cmdNode=y1&baseClass=ilrepositorygui)
+zu dieser Vorlesung beinhaltet keinerlei Inhalt wie Folien, Notizen oder Skripte. Dieser Kurs bietet einzig und allein
+eine Übersicht über Websites, die für diese Vorlesung benötigt werden, sowie ein Diskussionsforum, in dem Fragen zu
+Vorlesungsthemen gestellt werden können. Dieses Diskussionsforum soll allerdings nicht zum Austausch von Lösungen 
+genutzt werden, weshalb solche Beteiligungen auch zeitnah wieder entfernt werden.
 
 
 ## Website
 
-Wie bereits in der ersten Mail erwähnt wurde, benutzt Herr Prof. Dr. Berrendorf eine eigene Internetseite um Folien,
-Notizen und Übungsaufgaben zur Verfügung zu stellen. 
+Wie bereits in der ersten E-Mail erwähnt wurde, nutzt Herr Prof. Dr. Berrendorf eine eigene Website um seine Folien,
+Notizen, Skript, usw. uns zur Verfügung zu stellen. Über folgende Link gelang ihr zu dieser Website:
 
 [Einführung in die Programmierung](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/eidp.html)
 
-Auf der Website könnt ihr euch folgende Inhalte anschauen oder herunterladen:
-1. Literatur
-2. Programmcode
-3. Übungsaufgaben
-4. Vorlesungsfolien
-5. Vorlesungsskripte
+Die Website dient als Ersatz zum LEA-Kurs und beinhaltet alle nötigen Unterlagen, wie zum Beispiel die Vorlesungsfolien,
+ein ausgearbeitetes Skript und viele weitere nützliche Unterlagen. Des Weiteren befinden sich auf dieser Website auch
+Erklärungen zu diversesten Themen, welche im Laufe der Vorlesungen vonnöten sein werden.
 
-Des Weiteren befinden sich auf der Website Erklärungen zu diversesten Themen, welche im Laufe der Vorlesung nützlich
-sein werden.
-
-
-## Vorlesungen
-
-Zum Festigen der Vorlesungsinhalte stellt Herr Prof. Dr. Berrendorf regelmäßig sogenannte Leit- oder 
-Reflexionsfragen. Nutzt diese Fragen, um den vorher erklärten Vorlesungsinhalt nochmal einem eurer Sitznachbarn zu
-erklären.
+Um Inhalte von dieser Website herunterladen zu können, werdet ihr aufgefordert euch anzumelden. Für diese Anmeldung
+verwendet ihr euer Universitätskürzel sowie das Fachbereichspasswort, welches ihr zu Beginn des Semesters erhalten
+haben solltet.
 
 
 ## Übungen und Übungsaufgaben
 
-Die Übung findet einmal pro Woche in den vorher eingeteilten Gruppen statt. Diese Einteilung kann über EVA1 eingesehen
-werden.
+Die Übungsaufgaben, welche innerhalb der Übungsstunden bearbeitet und besprochen werden, befinden sich auf der oben
+genannten Website. Um einen reibungslosen Ablauf der Übungsstunden zu garantieren, sollen die Übungen bereits vor der
+Übungsstunde heruntergeladen und durchgelesen werden.
 
-Die Übungsaufgaben, welche in den Übungen bearbeitet werden, werden auf der oben genannten Website hochgeladen und
-sollen sich vor den Übungsstunden bereits einmal angeschaut werden.
+Übungen werden im wöchentlichen Takt hochgeladen und sollen auch in diesem Rhythmus bearbeitet werden. Dies ist vor
+allem daher relevant, da diese Übungsaufgaben zum Teil bewertet werden. Diese Bewertung erfolgt über den
+[Praktomaten](#praktomat).
 
-Übungsaufgaben werden einmal pro Woche hochgeladen und müssen bis Sonntag der Woche erledigt werden.
-
-Teilweise handelt es sich hierbei um bewertet Übungsaufgaben, welche über den [Praktomaten](#praktomat) bewertet werden.
-
-Des Weiteren wird etwa einmal pro Monat eine Alt- oder Übungsklausur zur Verfügung gestellt, welche zur selbstkontrolle
-durchgeführt werden kann. Hierbei sollte strikt auf die Einhaltung der vorgegebenen Klausurzeit geachtet werden.
+Neben den wöchentlichen Übungsaufgaben wird es auch Probeklausuren geben, welche etwa einmal pro Monat hochgeladen
+werden. Diese Übungsklausuren dienen zur Überprüfung des Lernfortschrittes und es wird angeraten, diese auch in dem
+dafür vorgesehenen zeitlichen Rahmen zu erledigen.
 
 
 ## Praktomat
 
-Der Praktomat ist eine von Studenten entwickelte Web-Anwendung, welche über folgenden Link aufgerufen werden kann:
+Der [Praktomat](https://praktomat.inf.h-brs.de/) ist eine Anwendung, welche zur Bewertung der Übungsaufgaben verwendet wird. Dies tut er, indem er
+den hochgeladenen Programmcode ausführt und testet. Sollten dabei Fehler auftreten, wird eine Rückmeldung ausgegeben
+und man hat die Möglichkeit seine Abgabe nochmals zu verbessern. Hierbei gilt zu beachten, dass der ausführlichste Test
+erst nach Ablauf der Abgabefrist ausgeführt wird und es daher vorkommen kann, dass obwohl alle vorherigen Tests
+erfolgreich waren, die Abgabe als fehlerhaft bewertet wurde.
 
-[Praktomat](https://praktomat.inf.h-brs.de/)
+Eine detaillierte Funktionsanleitung des Praktomaten lässt sich über folgende Link aufrufen:
 
-Er dient zur Bewertung und Kontrolle von Programmcode. Dies tut er, indem er den abgegebenen Programmcode liest, testet
-und anschließend bewertet.
-
-Eine detaillierte Funktionsanleitung lässt sich unter dem folgenden Link einsehen:
-
-[Anleitung Praktomat](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/praktomat.html)
+[Funktionsanleitung Praktomat](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/praktomat.html)
 
 
 ## Klausur
 
-Die Klausur wird trotz der Tatsache, dass es sich um eine Programmierklausur handelt auf einem Blatt Papier geschrieben.
-Sie gilt als bestanden, wenn man mindestens 50% der Punkte erreicht.
+Die Klausur wird in der Regel in dem ersten der beiden Prüfungsfenster geschrieben und erfolgt, obwohl es sich hierbei
+um eine Programmierklausur handelt auf einem Blatt Papier. Die Klausur gilt als bestanden, wenn man mindestens 50% der
+möglichen Punkte erreicht hat.
 
-Um überhaupt für die Klausur zugelassen zu werden, muss man 50% der bewerteten Übungsaufgaben bestehen.
-
-
-## Nützliche Tipps
-
-Folgende Tipps wurden von Herrn Prof. Dr. Berrendorf in der Einführungsveranstaltung zu dieser Vorlesung gegeben:
-
-1. Erstellt euch einen Zeitplan, indem ihr die Vorlesungen, Übungen und den übrigen Zeitaufwand von circa 5-6 Stunden
-pro Woche berücksichtigt.
-
-2.  Schaltet beim Lernen euer Handy aus um gar nicht erst durch die sozialen Medien abgelenkt zu werden. 
+Des Weiteren gilt zu beachten, dass diese Klausur eine Zulassungsbeschränkung hat. Um für die Klausur zugelassen zu
+werden, müssen 50% der durch den Praktomaten bewerteten Aufgaben fehlerfrei und somit bestanden sein. Das heißt, selbst
+wenn ihr euch für die Klausur rechtzeitig anmeldet, kann es sein, dass ihr diese nicht schreiben dürft.
