@@ -11,9 +11,7 @@
 ## Phasenmodelle
 
 Ein Phasenmodell dient dazu ein Projekt zum Beispiel in der Softwareentwicklung zu strukturieren und in kleinere 
-Teilschritte zu unterteilen.
-
-Diese Teilschritte können parallel, überlappend oder nacheinander angeordnet werden.
+Teilschritte zu unterteilen. Diese Teilschritte können parallel, überlappend oder nacheinander angeordnet werden.
 
 Folgende Phasen könnten zum Beispiel zum Unterteilen und Strukturieren von Projekten genutzt werden:
 1. Anforderungsanalyse
@@ -26,15 +24,14 @@ Folgende Phasen könnten zum Beispiel zum Unterteilen und Strukturieren von Proj
 ## Prozessmodelle
 
 Ein Prozessmodell wird dazu genutzt, die oben beschriebene Phasen eines Phasenmodells zu strukturieren und in eine
-Rheinfolge zu bringen.
+Rheinfolge zu bringen. 
 
 Hierbei gibt es diverseste Darstellungsmöglichkeiten und eine in der Vorlesung als Beispiel genutzte war die veraltete
-Variante des Wasserfallmodells.
-
-![processmodel.png](processmodel.png)
+Variante des Wasserfallmodells. Bei einem Wasserfallmodell kann eine Phase erst beginnen, wenn die vorherige Phase
+abgeschlossen ist.
 
 
 ## Unterlagen
 
-* [Folien](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/vorlesung/Woche_01.pdf)
-* [Darstellung Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell#/media/Datei:Waterfall_model-de.svg)
+* [Folie 13](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/vorlesung/Woche_01.pdf)
+* [Erklärung Wasserfallmodell](https://studyflix.de/wirtschaft/wasserfallmodell-6748)

@@ -10,17 +10,40 @@
             <toc-element topic="Informationen_EidP.md"/>
             <toc-element topic="Phasen_und_Prozessmodelle.md"/>
             <toc-element topic="Algorithmen.md"/>
+            <toc-element topic="Programmiersprachen.md"/>
+            <toc-element topic="Sonstiges_EidP.md">
+                <toc-element topic="Struktogramm.md"/>
+                <toc-element topic="Syntaxdiagramme.md"/>
+                <toc-element topic="UML_Aktivitätsdiagramm.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="Einführung_in_Diskrete_Mathematik_und_Lineare_Algebra.md">
             <toc-element topic="Informationen_DMLA.md"/>
             <toc-element topic="Mengenlehre.md"/>
+            <toc-element topic="Logik.md"/>
+            <toc-element topic="Beweise.md"/>
+            <toc-element topic="Sonstiges_DMLA.md">
+                <toc-element topic="Wahrheitstafeln-DMLA.md"/>
+                <toc-element topic="Formelsammlung-Logik-DMLA.md"/>
+                <toc-element topic="Zeichensammlung-Mengenlehre.md"/>
+                <toc-element topic="Zeichensammlung_Logik_DMLA.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="Technische_Informatik_und_Physikalische_Grundlagen.md">
             <toc-element topic="Informationen_TIPG.md"/>
             <toc-element topic="Computerzählweise.md"/>
             <toc-element topic="Boolsche_Algebra.md"/>
+            <toc-element topic="Sonstiges_TIPG.md">
+                <toc-element topic="Wahrheitstafeln.md"/>
+                <toc-element topic="KV-Diagramme.md"/>
+                <toc-element topic="Formelsammlung-Logik-TIPG.md"/>
+                <toc-element topic="Zeichensammlung_Logik_TIPG.md"/>
+                <toc-element topic="Zeichensammlung-Schaltnetze.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="Logische_Grundlagen_für_die_Informatik.md">
+            <toc-element topic="Interpretationsfunktionen.md"/>
+            <toc-element topic="Wahrheitstafeln-LGI.md"/>
             <toc-element topic="Informationen_LGI.md"/>
         </toc-element>
         <toc-element topic="Betriebswirtschaftslehre.md">

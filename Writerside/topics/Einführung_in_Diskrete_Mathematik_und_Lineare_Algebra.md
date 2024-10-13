@@ -8,3 +8,5 @@ Lineare Algebra' bei Frau Weil beziehen.
 
 1. [](Informationen_DMLA.md)
 2. [](Mengenlehre.md)
+3. [](Logik.md)
+3. [](Sonstiges_DMLA.md)

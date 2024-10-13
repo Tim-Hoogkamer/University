@@ -1,10 +1,19 @@
 # Algorithmen - 07.10.2024
 
+
 ## Inhaltsverzeichnis
 
 1. [Was ist ein Algorithmus?](#was-ist-ein-algorithmus)
 2. [Was ist eine Anweisung?](#was-ist-eine-anweisung)
+   * [Einzelanweisung](#einzelanweisungen)
+   * [Sequenz](#sequenz)
+   * [Selektion](#selektion)
+   * [Mehrfachselektion](#mehrfachselektion)
+   * [Iteration](#iteration)
 3. [Darstellungsmöglichkeiten](#darstellungsm-glichkeiten)
+   * [UML-Aktivitätsdiagramm](#uml-aktivit-tsdiagramm)
+   * [Struktogramm](#struktogramm)
+   * [Programmcode](#programmcode)
 4. [Unterladen](#unterlagen)
 
 
@@ -22,26 +31,21 @@ Algorithmus ist zum Beispiel eine Wegbeschreibung oder ein Kochrezept.
 Eine Anweisung ist ein Teilschritt eines Algorithmus. Wenn wir uns also auf die oben gegebene Definition eines
 Algorithmus beziehen handelt es sich bei einer Anweisung um einen Arbeitsschritt, der befolgt werden muss.
 
-Ein solcher Arbeitsschritt könnte zum Beispiel wie folgt lauten: "Biegen Sie in 200 Metern rechts ab" oder "Fügen Sie
-dem Teig 500 Gramm Mehl hinzu".
-
-Es gibt verschiedene Arten von Anweisungen welche folgend kurz erläutert werden.
+Es gibt verschiedene Arten von Arbeitsschritten beziehungsweise Anweisungen welche folgend kurz erläutert werden.
 
 ### Einzelanweisungen
 
 Bei Einzelanweisungen handelt es sich um die kleinste mögliche Anweisung. In der Regel bestehen Einzelanweisungen aus
 einem einzigen kurz und präzise formulierten Arbeitsschritt, der so ohne weiteres ausgeführt werden kann.
 
-Ein Beispiel für eine Einzelanweisung ist: Ersetze Wert X durch Wert Y.
+Ein Beispiel für eine Einzelanweisung ist: "Ersetze Wert X durch Wert Y".
 
 ### Sequenz
 
-Bei einer Sequenz handelt es sich um eine Verkettung von Einzelanweisungen. Das heißt, Sequenzen sind der 
-kleinstmögliche Algorithmus bestehend aus mindestens zwei Einzelanweisungen. Diese Einzelanweisungen werden durch ein 
-Semicolon getrennt dargestellt.
+Bei einer Sequenz handelt es sich um eine Verkettung von Einzelanweisungen, welche nacheinander ausgeführt werden.
+Diese Einzelanweisungen können durch ein Semicolon getrennt dargestellt werden.
 
-Ein Beispiel für eine solche Sequenz ist: Erfrage den Wert Y; Ersetze den Wert X durch den erfragten 
-Wert Y.
+Ein Beispiel für eine solche Sequenz ist: "Erfrage den Wert Y; Ersetze den Wert X durch den erfragten Wert Y".
 
 ### Selektion
 
@@ -91,10 +95,24 @@ und mit Hilfe von Pfeilen in die richtige Reihenfolge gebracht.
 Ein Nachteil von diesen Aktivitätsdiagrammen ist, dass sie bei zunehmender Größe sehr leicht unübersichtlich werden
 und nicht alle Anweisungen gut dargestellt werden können.
 
+Eine Erläuterung von Aktivitätsdiagrammen und deren einzelner Teilkomponenten befindet sich auf dem dazugehörigen
+[Cheat-Sheet](UML_Aktivitätsdiagramm.md).
+
 ### Struktogramm
 
 Ein Struktogramm ist eine weitere grafische Darstellungsmöglichkeit, die die Anweisungen in Kästchen untereinander
 darstellt.
 
+Eine Erläuterung von Struktogrammen und deren Bestandteilen befindet sich im dazugehörigen 
+[Cheat-Sheet](Struktogramm.md).
+
+## Programmcode
+
+Im Gegensatz zu den beiden vorherigen Darstellungsmöglichkeiten handelt es sich bei Programmcode um keine grafische
+Möglichkeit. Programmcode ist darauf ausgelegt, verallgemeinert zu sein und sein Hauptvorteil ist die Tatsache, dass
+er von Maschinen und Menschen gelesen werden kann.
+
 
 ## Unterlagen
+
+[Folien 16-40](https://berrendorf.inf.h-brs.de/lehre/ws2425/eidp/vorlesung/Woche_02.pdf)

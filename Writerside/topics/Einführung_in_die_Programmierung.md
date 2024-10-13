@@ -8,3 +8,6 @@ Herrn Prof. Dr. Berrendorf beziehen.
 
 1. [](Informationen_EidP.md)
 2. [](Phasen_und_Prozessmodelle.md)
+3. [](Algorithmen.md)
+4. [](Programmiersprachen.md)
+5. [](Sonstiges_EidP.md)
